@@ -3,7 +3,7 @@
 <b> This project was made to fill the database with Russian and English content. </b> <br>
 I used the <b>JSOUP</b> library to parse HTML pages. <br>
 I write the results to the MySQL database using SQL queries.<br>
-<p>This diagram shows the structure of my database. I used the principles of OOP in designing its architecture.</p>
+<p>This diagram shows the structure of my database.</p>
 
 
 
